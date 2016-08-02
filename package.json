@@ -1,0 +1,25 @@
+{
+  "name": "file-metadata",
+  "version": "1.0.0",
+  "description": "freeCodeCamp Basejump: File Metadata Microservice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eetin/file-metadata.git"
+  },
+  "author": "Dmitry Lebedev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eetin/file-metadata/issues"
+  },
+  "homepage": "https://github.com/Eetin/file-metadata#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "multer": "^1.1.0",
+    "pug": "^2.0.0-beta4"
+  }
+}
